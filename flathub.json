@@ -1,4 +1,6 @@
 {
+    "end-of-life": "This plugin package has been renamed to org.freedesktop.LinuxAudio.Plugins.DISTRHO-Ports",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.DISTRHO-Ports",
     "skip-icons-check": true,
     "only-arches": ["x86_64"]
 }
